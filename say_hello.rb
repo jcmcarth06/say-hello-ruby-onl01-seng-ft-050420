@@ -1,6 +1,8 @@
 def greeting
-  puts ("Hello #{name}!")
+  puts ("Hello Kent Beck!")
 end
+
+
 
 
 def greeting(name = "Ruby Programmer")
